@@ -1,6 +1,8 @@
-# USD-TL-Prediction-
+# USD-TL-Prediction Dataset-
 
-Dataset
+
+
+
 The dataset required for this question is in q2-train-features.csv file. 
 The dataset for this question consists of monthly average of USD/TRY exchange rates from November 2014 to August 2019. 
 In addition, youcanalsofindCPI(ConsumerPriceIndex,orTU ̈FEinTurkish)andunemploymentratesofeachmonth 
